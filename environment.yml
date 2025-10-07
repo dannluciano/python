@@ -4,5 +4,5 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - jupyterlite-pyodide-kernel
-  - xeus-python
+  # - xeus-python
   - ipycanvas
